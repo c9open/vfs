@@ -1,6 +1,6 @@
 # VFS - Virtual File System
 
-**This repo is being broken up into several smaller repos.  For example, see [vfs-local](https://github.com/c9/vfs-local), [vfs-socket](https://github.com/c9/vfs-socket) and [vfs-http-adapter](https://github.com/c9/vfs-http-adapter).**
+**This repo is being broken up into several smaller repos.  For example, see [vfs-local](https://github.com/c9open/vfs-local), [vfs-socket](https://github.com/c9open/vfs-socket) and [vfs-http-adapter](https://github.com/c9open/vfs-http-adapter).**
 
 This module is a vfs implementation for node.js.  Originally it was created for
 our internal needs at Cloud9IDE.  Eventually it grew to be generally useful so
@@ -19,7 +19,7 @@ instances and exposing them with a simple RESTful API.
 
 See the docs in the http-adapter for specifics.
 
-<https://github.com/c9/vfs-http-adapter>
+<https://github.com/c9open/vfs-http-adapter>
 
 # JavaScript Interface
 

@@ -8,7 +8,7 @@
     "version": "0.0.3",
     "repository": {
         "type": "git",
-        "url": "git://github.com/c9/vfs.git"
+        "url": "git://github.com/c9open/vfs.git"
     },
     "main": "composite.js",
     "dependencies": {
@@ -17,7 +17,7 @@
     "optionalDependencies": {},
     "licenses" : [{
         "type" : "MIT",
-        "url" : "http://github.com/c9/vfs/raw/master/local/LICENSE"
+        "url" : "http://github.com/c9open/vfs/raw/master/local/LICENSE"
     }],
     "engines": {
         "node": "*"

@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/c9/vfs.git"
+    "url": "git://github.com/c9open/vfs.git"
   },
   "dependencies": {
     "stack": "~0.1.0",
